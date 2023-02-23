@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{FFB1A7E6-17B7-42AD-9A73-10574F5C442D}" SchemaVersion="103">
+	<AudioObjects>
+		<WorkUnit Name="Default Work Unit" ID="{FFB1A7E6-17B7-42AD-9A73-10574F5C442D}" PersistMode="Standalone">
+			<ChildrenList>
+				<Sound Name="PD" ID="{92756218-7BD3-4AF0-B3FE-77D86D4C785C}" ShortID="103390982">
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{01F0B77B-A817-4201-A267-75BCAFB20276}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{D9A5E855-7CFA-4BD3-9AC8-AF9CB3966BEB}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<SourcePlugin Name="simplewind" ID="{1AD70439-1200-421D-8750-9A8EEF568D0C}" ShortID="403093040" PluginName="simplewind" CompanyID="64" PluginID="2707">
+							<PropertyList>
+								<Property Name="Q" Type="Real32" Value="0.41"/>
+								<Property Name="centerFrequency_01" Type="Real32" Value="200"/>
+							</PropertyList>
+							<Language>SFX</Language>
+						</SourcePlugin>
+					</ChildrenList>
+					<ObjectLists/>
+					<ActiveSourceList>
+						<ActiveSource Name="simplewind" ID="{1AD70439-1200-421D-8750-9A8EEF568D0C}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+				<Sound Name="Impacter" ID="{279271F7-9F5E-4B77-AD3B-356C338CEFF8}" ShortID="456030723">
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{01F0B77B-A817-4201-A267-75BCAFB20276}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{D9A5E855-7CFA-4BD3-9AC8-AF9CB3966BEB}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<SourcePlugin Name="Impacter" ID="{313D288A-6612-412E-9DAF-3D1F83750F58}" ShortID="742118200" PluginName="Impacter" CompanyID="0" PluginID="184">
+							<Language>SFX</Language>
+						</SourcePlugin>
+					</ChildrenList>
+					<ObjectLists/>
+					<ActiveSourceList>
+						<ActiveSource Name="Impacter" ID="{313D288A-6612-412E-9DAF-3D1F83750F58}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+				<Sound Name="SoundSeed Air Wind" ID="{F8E56105-02A1-49A8-AE99-CB261006320E}" ShortID="529146116">
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{01F0B77B-A817-4201-A267-75BCAFB20276}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{D9A5E855-7CFA-4BD3-9AC8-AF9CB3966BEB}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<SourcePlugin Name="SoundSeed Air Wind" ID="{742377D7-D3D6-43E9-A3AC-D096429C5A3A}" ShortID="861643230" PluginName="SoundSeed Air Wind" CompanyID="0" PluginID="119">
+							<Language>SFX</Language>
+							<PluginData/>
+							<PluginInnerObjectList>
+								<List Name="Deflectors">
+									<PluginInnerObject Name="" ID="{90FF030F-C3DD-43DE-B544-7175E81E3EFB}" PluginName="Deflector" CompanyID="0" PluginID="121">
+										<PropertyList>
+											<Property Name="PanY" Type="Real64" Value="-3.5527136788005E-15"/>
+										</PropertyList>
+									</PluginInnerObject>
+								</List>
+							</PluginInnerObjectList>
+						</SourcePlugin>
+					</ChildrenList>
+					<ObjectLists/>
+					<ActiveSourceList>
+						<ActiveSource Name="SoundSeed Air Wind" ID="{742377D7-D3D6-43E9-A3AC-D096429C5A3A}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+				<Sound Name="SoundSeed Grain" ID="{467BB457-ED2B-4331-AAA5-C910571F3C4F}" ShortID="924891683">
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{01F0B77B-A817-4201-A267-75BCAFB20276}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{D9A5E855-7CFA-4BD3-9AC8-AF9CB3966BEB}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<SourcePlugin Name="SoundSeed Grain" ID="{8B3387CA-4B49-4D1A-85ED-D33F94CBC99A}" ShortID="698996714" PluginName="SoundSeed Grain" CompanyID="0" PluginID="183">
+							<PropertyList>
+								<Property Name="OutputLevel" Type="Real32">
+									<RTPCList>
+										<RTPC Name="" ID="{B5BEF786-CBFF-4741-BD42-CC39552779DB}" ShortID="202104831">
+											<ReferenceList>
+												<Reference Name="ControlInput">
+													<Custom>
+														<ModulatorEnvelope Name="Modulator Envelope (Custom)" ID="{88E3FB9F-5D45-4C51-9E79-CF657AD94DB9}" ShortID="429275242">
+															<PropertyList>
+																<Property Name="EnvelopeAttackTime" Type="Real64" Value="0.01"/>
+															</PropertyList>
+														</ModulatorEnvelope>
+													</Custom>
+												</Reference>
+											</ReferenceList>
+											<Curve Name="" ID="{F666F743-2172-4103-8AB5-A4D253BE3101}">
+												<PropertyList>
+													<Property Name="Flags" Type="int32" Value="3"/>
+												</PropertyList>
+												<PointList>
+													<Point>
+														<XPos>0</XPos>
+														<YPos>-96</YPos>
+														<Flags>21</Flags>
+													</Point>
+													<Point>
+														<XPos>1</XPos>
+														<YPos>0</YPos>
+														<Flags>53</Flags>
+													</Point>
+												</PointList>
+											</Curve>
+										</RTPC>
+									</RTPCList>
+								</Property>
+							</PropertyList>
+							<Language>SFX</Language>
+							<PluginData/>
+						</SourcePlugin>
+					</ChildrenList>
+					<ObjectLists/>
+					<ActiveSourceList>
+						<ActiveSource Name="SoundSeed Grain" ID="{8B3387CA-4B49-4D1A-85ED-D33F94CBC99A}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+				<Sound Name="SoundSeed Air Woosh" ID="{D8E1E765-B6FE-4F68-AFFF-CD30D9DAD04E}" ShortID="938663815">
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{01F0B77B-A817-4201-A267-75BCAFB20276}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{D9A5E855-7CFA-4BD3-9AC8-AF9CB3966BEB}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<SourcePlugin Name="SoundSeed Air Woosh" ID="{C984D145-0410-4815-8320-5F07DC471E40}" ShortID="521462584" PluginName="SoundSeed Air Woosh" CompanyID="0" PluginID="120">
+							<PropertyList>
+								<Property Name="SpeedAutomate" Type="bool" Value="True"/>
+							</PropertyList>
+							<Language>SFX</Language>
+							<PluginData>
+	<WooshData>
+		<CurveList Version="1">
+			<CurveInfo Name="Speed">
+				<Curve Name="" ID="{60F2E85F-D8FB-4F99-A3BE-1AA28780ACD6}">
+					<PropertyList>
+						<Property Name="Flags" Type="int32" Value="1"/>
+					</PropertyList>
+					<PointList>
+						<Point>
+							<XPos>0</XPos>
+							<YPos>0</YPos>
+							<Flags>5</Flags>
+						</Point>
+						<Point>
+							<XPos>0.25</XPos>
+							<YPos>100</YPos>
+							<Flags>0</Flags>
+						</Point>
+						<Point>
+							<XPos>0.5</XPos>
+							<YPos>0</YPos>
+							<Flags>37</Flags>
+						</Point>
+					</PointList>
+				</Curve>
+			</CurveInfo>
+		</CurveList>
+		<Path Version="1">
+			<Path2D Name="" ID="{28D27B25-B5F7-4AD2-8FF5-5A8F00C06FCC}">
+				<PropertyList>
+					<Property Name="LinearTime" Type="bool" Value="False"/>
+				</PropertyList>
+				<PointList>
+					<Point>
+						<XPos>0</XPos>
+						<YPos>0</YPos>
+						<Flags>12</Flags>
+						<Time>0</Time>
+					</Point>
+				</PointList>
+			</Path2D>
+		</Path>
+	</WooshData>
+</PluginData>
+							<PluginInnerObjectList>
+								<List Name="Deflectors">
+									<PluginInnerObject Name="" ID="{E0CC086C-8F52-46B8-BEB2-E517B251D134}" PluginName="Deflector" CompanyID="0" PluginID="122"/>
+								</List>
+							</PluginInnerObjectList>
+						</SourcePlugin>
+					</ChildrenList>
+					<ObjectLists/>
+					<ActiveSourceList>
+						<ActiveSource Name="SoundSeed Air Woosh" ID="{C984D145-0410-4815-8320-5F07DC471E40}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+				<Sound Name="Wwise Sine" ID="{C4CBED48-36D7-43E1-8C6C-E67DB7E3D97E}" ShortID="638084021">
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{01F0B77B-A817-4201-A267-75BCAFB20276}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{D9A5E855-7CFA-4BD3-9AC8-AF9CB3966BEB}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<SourcePlugin Name="Wwise Sine" ID="{4DC4BDE0-DE7C-44A5-9243-04B7DD9ECF34}" ShortID="423622326" PluginName="Wwise Sine" CompanyID="0" PluginID="100">
+							<Language>SFX</Language>
+						</SourcePlugin>
+					</ChildrenList>
+					<ObjectLists/>
+					<ActiveSourceList>
+						<ActiveSource Name="Wwise Sine" ID="{4DC4BDE0-DE7C-44A5-9243-04B7DD9ECF34}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+				<Sound Name="Wwise Synth One" ID="{26A7C5CA-3BDC-4FFC-9311-7EEC426046A9}" ShortID="419134822">
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{01F0B77B-A817-4201-A267-75BCAFB20276}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{D9A5E855-7CFA-4BD3-9AC8-AF9CB3966BEB}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<SourcePlugin Name="Wwise Synth One" ID="{FEA9C1E2-6A01-4470-BF0D-458DD858D997}" ShortID="76868316" PluginName="Wwise Synth One" CompanyID="0" PluginID="148">
+							<PropertyList>
+								<Property Name="OutputLevel" Type="Real32">
+									<RTPCList>
+										<RTPC Name="" ID="{B0177540-75E5-4163-91A6-5475EB30D2A7}" ShortID="918962036">
+											<ReferenceList>
+												<Reference Name="ControlInput">
+													<Custom>
+														<ModulatorEnvelope Name="Modulator Envelope (Custom)" ID="{508776AC-8ED3-47E1-BD3C-7703AF9AB1C9}" ShortID="1046422101">
+															<PropertyList>
+																<Property Name="EnvelopeAttackTime" Type="Real64" Value="0.01"/>
+															</PropertyList>
+														</ModulatorEnvelope>
+													</Custom>
+												</Reference>
+											</ReferenceList>
+											<Curve Name="" ID="{799BEEB9-6C6D-4C33-8DE7-C01AC83F1A43}">
+												<PropertyList>
+													<Property Name="Flags" Type="int32" Value="3"/>
+												</PropertyList>
+												<PointList>
+													<Point>
+														<XPos>0</XPos>
+														<YPos>-96</YPos>
+														<Flags>21</Flags>
+													</Point>
+													<Point>
+														<XPos>1</XPos>
+														<YPos>0</YPos>
+														<Flags>53</Flags>
+													</Point>
+												</PointList>
+											</Curve>
+										</RTPC>
+									</RTPCList>
+								</Property>
+							</PropertyList>
+							<Language>SFX</Language>
+						</SourcePlugin>
+					</ChildrenList>
+					<ObjectLists/>
+					<ActiveSourceList>
+						<ActiveSource Name="Wwise Synth One" ID="{FEA9C1E2-6A01-4470-BF0D-458DD858D997}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+				<Sound Name="Wwise Tone Generator" ID="{DAFCEE84-2D85-4A15-9245-F983B06FC090}" ShortID="3149865">
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{01F0B77B-A817-4201-A267-75BCAFB20276}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{D9A5E855-7CFA-4BD3-9AC8-AF9CB3966BEB}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<SourcePlugin Name="Wwise Tone Generator" ID="{D273521F-16CC-447F-A002-02E07EE39830}" ShortID="316157630" PluginName="Wwise Tone Generator" CompanyID="0" PluginID="102">
+							<Language>SFX</Language>
+						</SourcePlugin>
+					</ChildrenList>
+					<ObjectLists/>
+					<ActiveSourceList>
+						<ActiveSource Name="Wwise Tone Generator" ID="{D273521F-16CC-447F-A002-02E07EE39830}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+				<Sound Name="RNBO" ID="{6C9CF228-73A1-4CFF-8ED5-43AB05EA8089}" ShortID="446248811">
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{01F0B77B-A817-4201-A267-75BCAFB20276}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{D9A5E855-7CFA-4BD3-9AC8-AF9CB3966BEB}"/>
+						</Reference>
+					</ReferenceList>
+					<ObjectLists/>
+				</Sound>
+				<Sound Name="JUCE" ID="{7FCF9EAF-5BCF-4E0F-85D9-AC78AD4FFD36}" ShortID="447407662">
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{01F0B77B-A817-4201-A267-75BCAFB20276}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{D9A5E855-7CFA-4BD3-9AC8-AF9CB3966BEB}"/>
+						</Reference>
+					</ReferenceList>
+					<ObjectLists/>
+				</Sound>
+			</ChildrenList>
+		</WorkUnit>
+	</AudioObjects>
+</WwiseDocument>

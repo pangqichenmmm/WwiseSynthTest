@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ValidationCache Version="1" SchemaVersion="103">
+	<ValidationCacheItem File="G:\WwiseSynthTest\Wwise2021\WwiseSynthTest.wproj" DateLow="1677169617" DateHigh="0"/>
+	<ValidationCacheItem File="G:\WwiseSynthTest\Wwise2021\WwiseSynthTest.Admin.wsettings" DateLow="1677173225" DateHigh="0"/>
+	<ValidationCacheItem File="G:\WwiseSynthTest\Wwise2021\Virtual Acoustics\Factory Acoustic Textures.wwu" DateLow="1677162026" DateHigh="0"/>
+	<ValidationCacheItem File="G:\WwiseSynthTest\Wwise2021\Virtual Acoustics\Default Work Unit.wwu" DateLow="1677169617" DateHigh="0"/>
+	<ValidationCacheItem File="G:\WwiseSynthTest\Wwise2021\Triggers\Default Work Unit.wwu" DateLow="1677169617" DateHigh="0"/>
+	<ValidationCacheItem File="G:\WwiseSynthTest\Wwise2021\Switches\Default Work Unit.wwu" DateLow="1677169617" DateHigh="0"/>
+	<ValidationCacheItem File="G:\WwiseSynthTest\Wwise2021\States\Default Work Unit.wwu" DateLow="1677169617" DateHigh="0"/>
+	<ValidationCacheItem File="G:\WwiseSynthTest\Wwise2021\Soundcaster Sessions\Default Work Unit.wwu" DateLow="1677169617" DateHigh="0"/>
+	<ValidationCacheItem File="G:\WwiseSynthTest\Wwise2021\SoundBanks\Default Work Unit.wwu" DateLow="1677169617" DateHigh="0"/>
+	<ValidationCacheItem File="G:\WwiseSynthTest\Wwise2021\Queries\Factory Queries.wwu" DateLow="1677162026" DateHigh="0"/>
+	<ValidationCacheItem File="G:\WwiseSynthTest\Wwise2021\Queries\Default Work Unit.wwu" DateLow="1677169617" DateHigh="0"/>
+	<ValidationCacheItem File="G:\WwiseSynthTest\Wwise2021\Presets\Factory Spatial Audio.wwu" DateLow="1677162026" DateHigh="0"/>
+	<ValidationCacheItem File="G:\WwiseSynthTest\Wwise2021\Presets\Default Work Unit.wwu" DateLow="1677169617" DateHigh="0"/>
+	<ValidationCacheItem File="G:\WwiseSynthTest\Wwise2021\Modulators\Default Work Unit.wwu" DateLow="1677169617" DateHigh="0"/>
+	<ValidationCacheItem File="G:\WwiseSynthTest\Wwise2021\Mixing Sessions\Default Work Unit.wwu" DateLow="1677169617" DateHigh="0"/>
+	<ValidationCacheItem File="G:\WwiseSynthTest\Wwise2021\Metadata\Default Work Unit.wwu" DateLow="1677169617" DateHigh="0"/>
+	<ValidationCacheItem File="G:\WwiseSynthTest\Wwise2021\Master-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1677169617" DateHigh="0"/>
+	<ValidationCacheItem File="G:\WwiseSynthTest\Wwise2021\Interactive Music Hierarchy\Default Work Unit.wwu" DateLow="1677169617" DateHigh="0"/>
+	<ValidationCacheItem File="G:\WwiseSynthTest\Wwise2021\Game Parameters\Factory SoundSeed Grain.wwu" DateLow="1677162104" DateHigh="0"/>
+	<ValidationCacheItem File="G:\WwiseSynthTest\Wwise2021\Game Parameters\Factory SoundSeed Air Game Syncs.wwu" DateLow="1677162098" DateHigh="0"/>
+	<ValidationCacheItem File="G:\WwiseSynthTest\Wwise2021\Game Parameters\Default Work Unit.wwu" DateLow="1677169617" DateHigh="0"/>
+	<ValidationCacheItem File="G:\WwiseSynthTest\Wwise2021\Events\Default Work Unit.wwu" DateLow="1677169617" DateHigh="0"/>
+	<ValidationCacheItem File="G:\WwiseSynthTest\Wwise2021\Effects\Factory Mastering Suite.wwu" DateLow="1677162108" DateHigh="0"/>
+	<ValidationCacheItem File="G:\WwiseSynthTest\Wwise2021\Effects\Factory Effects.wwu" DateLow="1677162026" DateHigh="0"/>
+	<ValidationCacheItem File="G:\WwiseSynthTest\Wwise2021\Effects\Default Work Unit.wwu" DateLow="1677169617" DateHigh="0"/>
+	<ValidationCacheItem File="G:\WwiseSynthTest\Wwise2021\Dynamic Dialogue\Default Work Unit.wwu" DateLow="1677169617" DateHigh="0"/>
+	<ValidationCacheItem File="G:\WwiseSynthTest\Wwise2021\Conversion Settings\Factory SoundSeed Grain.wwu" DateLow="1677162104" DateHigh="0"/>
+	<ValidationCacheItem File="G:\WwiseSynthTest\Wwise2021\Conversion Settings\Factory Conversion Settings.wwu" DateLow="1677162026" DateHigh="0"/>
+	<ValidationCacheItem File="G:\WwiseSynthTest\Wwise2021\Conversion Settings\Default Work Unit.wwu" DateLow="1677169617" DateHigh="0"/>
+	<ValidationCacheItem File="G:\WwiseSynthTest\Wwise2021\Control Surface Sessions\Default Work Unit.wwu" DateLow="1677169617" DateHigh="0"/>
+	<ValidationCacheItem File="G:\WwiseSynthTest\Wwise2021\Audio Devices\Default Work Unit.wwu" DateLow="1677169617" DateHigh="0"/>
+	<ValidationCacheItem File="G:\WwiseSynthTest\Wwise2021\Attenuations\Default Work Unit.wwu" DateLow="1677169617" DateHigh="0"/>
+	<ValidationCacheItem File="G:\WwiseSynthTest\Wwise2021\Actor-Mixer Hierarchy\Factory Synth One.wwu" DateLow="1677162026" DateHigh="0"/>
+	<ValidationCacheItem File="G:\WwiseSynthTest\Wwise2021\Actor-Mixer Hierarchy\Factory SoundSeed Grain.wwu" DateLow="1677162104" DateHigh="0"/>
+	<ValidationCacheItem File="G:\WwiseSynthTest\Wwise2021\Actor-Mixer Hierarchy\Factory SoundSeed Air Objects.wwu" DateLow="1677162098" DateHigh="0"/>
+	<ValidationCacheItem File="G:\WwiseSynthTest\Wwise2021\Actor-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1677170323" DateHigh="0"/>
+	<ValidationCacheItem File="G:\WwiseProjects\WwiseSynthTest\wwise\WwiseSynthTest\WwiseSynthTest.wproj" DateLow="1677169617" DateHigh="0"/>
+	<ValidationCacheItem File="G:\WwiseProjects\WwiseSynthTest\wwise\WwiseSynthTest\WwiseSynthTest.Admin.wsettings" DateLow="1677169837" DateHigh="0"/>
+	<ValidationCacheItem File="G:\WwiseProjects\WwiseSynthTest\wwise\WwiseSynthTest\Virtual Acoustics\Factory Acoustic Textures.wwu" DateLow="1677162026" DateHigh="0"/>
+	<ValidationCacheItem File="G:\WwiseProjects\WwiseSynthTest\wwise\WwiseSynthTest\Virtual Acoustics\Default Work Unit.wwu" DateLow="1677169617" DateHigh="0"/>
+	<ValidationCacheItem File="G:\WwiseProjects\WwiseSynthTest\wwise\WwiseSynthTest\Triggers\Default Work Unit.wwu" DateLow="1677169617" DateHigh="0"/>
+	<ValidationCacheItem File="G:\WwiseProjects\WwiseSynthTest\wwise\WwiseSynthTest\Switches\Default Work Unit.wwu" DateLow="1677169617" DateHigh="0"/>
+	<ValidationCacheItem File="G:\WwiseProjects\WwiseSynthTest\wwise\WwiseSynthTest\States\Default Work Unit.wwu" DateLow="1677169617" DateHigh="0"/>
+	<ValidationCacheItem File="G:\WwiseProjects\WwiseSynthTest\wwise\WwiseSynthTest\Soundcaster Sessions\Default Work Unit.wwu" DateLow="1677169617" DateHigh="0"/>
+	<ValidationCacheItem File="G:\WwiseProjects\WwiseSynthTest\wwise\WwiseSynthTest\SoundBanks\Default Work Unit.wwu" DateLow="1677169617" DateHigh="0"/>
+	<ValidationCacheItem File="G:\WwiseProjects\WwiseSynthTest\wwise\WwiseSynthTest\Queries\Factory Queries.wwu" DateLow="1677162026" DateHigh="0"/>
+	<ValidationCacheItem File="G:\WwiseProjects\WwiseSynthTest\wwise\WwiseSynthTest\Queries\Default Work Unit.wwu" DateLow="1677169617" DateHigh="0"/>
+	<ValidationCacheItem File="G:\WwiseProjects\WwiseSynthTest\wwise\WwiseSynthTest\Presets\Factory Spatial Audio.wwu" DateLow="1677162026" DateHigh="0"/>
+	<ValidationCacheItem File="G:\WwiseProjects\WwiseSynthTest\wwise\WwiseSynthTest\Presets\Default Work Unit.wwu" DateLow="1677169617" DateHigh="0"/>
+	<ValidationCacheItem File="G:\WwiseProjects\WwiseSynthTest\wwise\WwiseSynthTest\Modulators\Default Work Unit.wwu" DateLow="1677169617" DateHigh="0"/>
+	<ValidationCacheItem File="G:\WwiseProjects\WwiseSynthTest\wwise\WwiseSynthTest\Mixing Sessions\Default Work Unit.wwu" DateLow="1677169617" DateHigh="0"/>
+	<ValidationCacheItem File="G:\WwiseProjects\WwiseSynthTest\wwise\WwiseSynthTest\Metadata\Default Work Unit.wwu" DateLow="1677169617" DateHigh="0"/>
+	<ValidationCacheItem File="G:\WwiseProjects\WwiseSynthTest\wwise\WwiseSynthTest\Master-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1677169617" DateHigh="0"/>
+	<ValidationCacheItem File="G:\WwiseProjects\WwiseSynthTest\wwise\WwiseSynthTest\Interactive Music Hierarchy\Default Work Unit.wwu" DateLow="1677169617" DateHigh="0"/>
+	<ValidationCacheItem File="G:\WwiseProjects\WwiseSynthTest\wwise\WwiseSynthTest\Game Parameters\Factory SoundSeed Grain.wwu" DateLow="1677162104" DateHigh="0"/>
+	<ValidationCacheItem File="G:\WwiseProjects\WwiseSynthTest\wwise\WwiseSynthTest\Game Parameters\Factory SoundSeed Air Game Syncs.wwu" DateLow="1677162098" DateHigh="0"/>
+	<ValidationCacheItem File="G:\WwiseProjects\WwiseSynthTest\wwise\WwiseSynthTest\Game Parameters\Default Work Unit.wwu" DateLow="1677169617" DateHigh="0"/>
+	<ValidationCacheItem File="G:\WwiseProjects\WwiseSynthTest\wwise\WwiseSynthTest\Events\Default Work Unit.wwu" DateLow="1677169617" DateHigh="0"/>
+	<ValidationCacheItem File="G:\WwiseProjects\WwiseSynthTest\wwise\WwiseSynthTest\Effects\Factory Mastering Suite.wwu" DateLow="1677162108" DateHigh="0"/>
+	<ValidationCacheItem File="G:\WwiseProjects\WwiseSynthTest\wwise\WwiseSynthTest\Effects\Factory Effects.wwu" DateLow="1677162026" DateHigh="0"/>
+	<ValidationCacheItem File="G:\WwiseProjects\WwiseSynthTest\wwise\WwiseSynthTest\Effects\Default Work Unit.wwu" DateLow="1677169617" DateHigh="0"/>
+	<ValidationCacheItem File="G:\WwiseProjects\WwiseSynthTest\wwise\WwiseSynthTest\Dynamic Dialogue\Default Work Unit.wwu" DateLow="1677169617" DateHigh="0"/>
+	<ValidationCacheItem File="G:\WwiseProjects\WwiseSynthTest\wwise\WwiseSynthTest\Conversion Settings\Factory SoundSeed Grain.wwu" DateLow="1677162104" DateHigh="0"/>
+	<ValidationCacheItem File="G:\WwiseProjects\WwiseSynthTest\wwise\WwiseSynthTest\Conversion Settings\Factory Conversion Settings.wwu" DateLow="1677162026" DateHigh="0"/>
+	<ValidationCacheItem File="G:\WwiseProjects\WwiseSynthTest\wwise\WwiseSynthTest\Conversion Settings\Default Work Unit.wwu" DateLow="1677169617" DateHigh="0"/>
+	<ValidationCacheItem File="G:\WwiseProjects\WwiseSynthTest\wwise\WwiseSynthTest\Control Surface Sessions\Default Work Unit.wwu" DateLow="1677169617" DateHigh="0"/>
+	<ValidationCacheItem File="G:\WwiseProjects\WwiseSynthTest\wwise\WwiseSynthTest\Audio Devices\Default Work Unit.wwu" DateLow="1677169617" DateHigh="0"/>
+	<ValidationCacheItem File="G:\WwiseProjects\WwiseSynthTest\wwise\WwiseSynthTest\Attenuations\Default Work Unit.wwu" DateLow="1677169617" DateHigh="0"/>
+	<ValidationCacheItem File="G:\WwiseProjects\WwiseSynthTest\wwise\WwiseSynthTest\Actor-Mixer Hierarchy\Factory Synth One.wwu" DateLow="1677162026" DateHigh="0"/>
+	<ValidationCacheItem File="G:\WwiseProjects\WwiseSynthTest\wwise\WwiseSynthTest\Actor-Mixer Hierarchy\Factory SoundSeed Grain.wwu" DateLow="1677162104" DateHigh="0"/>
+	<ValidationCacheItem File="G:\WwiseProjects\WwiseSynthTest\wwise\WwiseSynthTest\Actor-Mixer Hierarchy\Factory SoundSeed Air Objects.wwu" DateLow="1677162098" DateHigh="0"/>
+	<ValidationCacheItem File="G:\WwiseProjects\WwiseSynthTest\wwise\WwiseSynthTest\Actor-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1677169835" DateHigh="0"/>
+</ValidationCache>
